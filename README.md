@@ -26,7 +26,7 @@ Example
         api,
         req,
         res,
-        app = require('express-bootable-test-helper');
+        app = require('express-bootable-test-helper').app;
 
       beforeEach(function() {
         api = require('../../../src/routes/index.js');

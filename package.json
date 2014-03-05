@@ -1,7 +1,21 @@
 {
   "name": "express-bootable-test-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "homepage": "https://github.com/defel/express-bootable-test-helper",
+  "keywords": [
+    "express",
+    "bootable",
+    "test",
+    "helper"
+  ],
+  "license": {
+      "type": "MIT",
+      "url": "https://github.com/JamesMGreene/node-flexpmd/blob/master/LICENSE-MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defel/express-bootable-test-helper.git"
+  },
   "dependencies": {
-    
   }
 }
